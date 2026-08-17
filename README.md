@@ -1,4 +1,4 @@
-#AULA 002
+# AULA 002
 
 # Respostas — Capítulo 2 de Sebesta
 
